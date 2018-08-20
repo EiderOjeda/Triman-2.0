@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Triman</string>
+    <string name="txtIngresar">Ingrese su nombre</string>
+    <string name="txtRegis">Registrar</string>
+    <string name="txtIniciar">Iniciar</string>
+    <string name="tvTriman">Escoger el Triman</string>
+    <string name="btEscogerTriman">Escoger al Triman</string>
+    <string name="btJugar">Vamos a jartar</string>
+    <string name="tvJugaTurno" />
+    <string name="tvDado" />
+    <string name="btDado">Dado</string>
+    <string name="btQuienJarta">¿Quién jarta?</string>
+    <string name="btSiguienteTurno">Siguiente Turno</string>
+    <string name="tvJugadorQueToma" />
+    <string name="tvQuienLanzaDado">Quién lanza el dado es</string>
+    <string name="tvValorDado">Valor del dado</string>
+    <string name="tvQuienDebeTomar">El que debe jartar es</string>
+
+</resources>
